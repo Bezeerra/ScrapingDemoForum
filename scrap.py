@@ -18,8 +18,8 @@ class Forums_api:
                 "url": "",
                 "quick_login": 1,
                 "my_post_key": "2dc2b997b84ef0c9132990419eab3abd",
-                "quick_username": "ForunsType",
-                "quick_password": "type123",
+                "quick_username": "*********",
+                "quick_password": "********",
                 "quick_remember": "yes",
                 "submit": "Login"}
         page = await self.session.post(url, data=dados)
